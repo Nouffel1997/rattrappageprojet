@@ -10,7 +10,7 @@ window.onload = function(){
         ctx.lineTo(14, 10);
         ctx.lineTo(6,14);
         ctx.fill(); 
-        ctx.stroke();
+        
         
           
 

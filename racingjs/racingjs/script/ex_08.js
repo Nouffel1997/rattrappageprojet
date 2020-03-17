@@ -1,4 +1,4 @@
-window.onload = function()
+/*window.onload = function()
 {
     (function()
     {
@@ -23,5 +23,7 @@ window.onload = function()
 
 
 
-console.log(document.all);
+console.log(document.all);*/
+
+
 

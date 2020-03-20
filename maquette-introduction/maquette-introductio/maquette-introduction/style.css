@@ -1,0 +1,117 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Oswald';
+    background-image: url(grille.png);
+    
+}
+
+.symbole{
+ width: 94px;
+ padding-right: 100%;
+    
+}
+.deroulant {
+    float: left;
+    padding: 22px;
+    
+}
+nav {
+    padding-left: 25%;
+    padding-right: 25%;
+    
+    
+}
+
+a {
+    text-decoration:black;
+}
+section {
+    padding-top: 10%;
+    background-image: url(transparent.png);
+    padding-bottom: 20px;
+}
+iframe {
+    margin-left: 31%;
+    width: 600px; 
+    height: 400px;
+}
+.bienvenue {
+    padding-left: 28%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+h4 {
+    color: orange;
+    background-image: url(transparent.png);
+}
+.sport {
+    float: left;
+    margin-left: 5%;
+    
+}
+.sport p{
+    background-image: url(transparent.png);
+}
+.activites {
+    padding-left: 20%;
+    padding-top: 1%;
+    padding-bottom: 28%;
+    background-image: url(transparent.png);
+}
+.image {
+    margin-top: 30px;
+    background-image: url(transparent.png);
+}
+.images {
+    margin-top: 20px;
+    background-image: url(transparent.png);
+}
+
+.footer {
+    padding-top: 10%;
+    background-image: url(transparent.png);
+    padding-left: 20%;
+}
+
+.logo {
+    float: right;
+    padding-right: 20%;
+}
+.footer p {
+    background-image: url(transparent.png);
+    margin-top: 10%;
+}
+footer {
+    background-image: url(transparent.png);
+    
+}
+.golfer {
+    border:1px ridge gray;
+    padding:20px;
+}
+.fast{
+padding-top: 30px;
+}
+.floater {
+    float: left;
+}
+.tel {
+    float: left;
+}
+.mail {
+    float: left;
+}
+.contact {
+    padding-bottom: 3%;
+    float: left;
+    padding-right: 6%;
+    
+}
+.aide {
+    float: left;
+}
+.moi {
+    
+    padding-left: 23%;
+}
